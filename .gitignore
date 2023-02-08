@@ -241,8 +241,4 @@ cython_debug/
 
 .vscode
 
-twilio_voicecall.py
-twilio_messaging.py
-twilio_calling.py
-
 .idea
