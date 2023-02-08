@@ -243,7 +243,6 @@ cython_debug/
 
 twilio_voicecall.py
 twilio_messaging.py
-app/nexmo_text_messaging.py
 twilio_calling.py
 
 .idea
